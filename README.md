@@ -14,3 +14,20 @@ geckos.io -lib
 
 file base routing- roteamento baseado em arquivos 
 produtos.php -> /produtos
+
+## versionamentos
+centralizados = sccs, rcs cvs svn
+distribuidos = git
+
+![funcionamento](images/git.png)
+
+por meio do git tem o blob, que é como se fosse um snapshot do arquivo,
+commit tal como um compromisso.
+
+## status de arquivos.
+
+moddified, staged, commit and untracked(Não faz parte diretamente).
+
+existe o .gitignore para remover alguns que não precisamos mais.
+
+caractere invisível
