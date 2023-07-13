@@ -30,4 +30,6 @@ moddified, staged, commit and untracked(Não faz parte diretamente).
 
 existe o .gitignore para remover alguns que não precisamos mais.
 
-caractere invisível
+caractere invisível \n
+
+viagem no tempo
